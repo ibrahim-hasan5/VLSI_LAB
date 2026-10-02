@@ -1,0 +1,10 @@
+Command line:
+   full_adder_1bit_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  34496
+
+Fri Oct  2 14:59:18 2026
+
+
+ Elaboration Time: 0.05 sec
