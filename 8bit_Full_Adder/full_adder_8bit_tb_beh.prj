@@ -1,0 +1,3 @@
+vhdl work "ful_adder_1bit.vhd"
+vhdl work "full_adder_8bit.vhd"
+vhdl work "full_adder_8bit_tb.vhd"
