@@ -1,0 +1,2 @@
+vhdl isim_temp "register_8bit.vhd"
+vhdl isim_temp "register_8bit_tb.vhd"
